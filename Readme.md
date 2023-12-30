@@ -1,6 +1,6 @@
 # CLCO: Domain Invariant Feature Learning Based on Cluster Contrastive Learning for Intelligence Fault Diagnosis with Limited Labeled Data
 
-The pytorch implementation for CLCO: Domain Invariant Feature Learning Based on Cluster Contrastive Learning for Intelligence Fault Diagnosis with Limited Labeled Data, [[repo](https://github.com/kabu2i/CLCO)], [[pdf](.)].
+The pytorch implementation for CLCO: Domain Invariant Feature Learning Based on Cluster Contrastive Learning for Intelligence Fault Diagnosis with Limited Labeled Data, [[repo](https://github.com/kabu2i/CLCO)], [[pdf](https://ieeexplore.ieee.org/document/10328714)].
 
 ![CLCO](assets/CLCO.png)
 
